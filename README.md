@@ -20,7 +20,7 @@ I work across the entire stack — from React and TypeScript frontends to Golang
 
 | | |
 |---|---|
-| 🎓 **Education** | B.Sc. Software Engineering, Mae Fah Luang University (2022 – Present) |
+| 🎓 **Education** | B.Eng. Software Engineering, Mae Fah Luang University (2022 – Present) |
 | 📊 **GPA** | 3.80 |
 | 🌐 **Languages** | Burmese (Native) · English (Upper Intermediate) · Chinese (Intermediate) |
 
