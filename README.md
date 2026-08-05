@@ -1,69 +1,77 @@
-# React + TypeScript + Vite
+<h1 align="center">Hi, I'm Thwin Khant Nyar Zaw 👋</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <b>Full Stack Developer</b> · React + Golang Builder · UI/UX Enthusiast<br/>
+  📍 Chiang Rai, Thailand
+</p>
 
-Currently, two official plugins are available:
+<p align="center">
+  <a href="mailto:thwinkhantnyarzaw@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/thwinkhantnyarzaw"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## About Me
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+4th-year Software Engineering student at **Mae Fah Luang University** (GPA **3.80**), building full-stack web applications with clean interfaces and reliable backends.
 
-```js
-export default tseslint.config([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+I work across the entire stack — from React and TypeScript frontends to Golang APIs — and I care deeply about both how software looks and how it performs.
 
-      // Remove tseslint.configs.recommended and replace with this
-      ...tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      ...tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      ...tseslint.configs.stylisticTypeChecked,
+| | |
+|---|---|
+| 🎓 **Education** | B.Sc. Software Engineering, Mae Fah Luang University (2022 – Present) |
+| 📊 **GPA** | 3.80 |
+| 🛠 **Projects Built** | 5 |
+| 🌐 **Languages** | Burmese (Native) · English (Upper Intermediate) · Chinese (Basic) |
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+---
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+## Tech Stack
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+**Languages**
 
-export default tseslint.config([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![Gin](https://img.shields.io/badge/Golang_Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Fiber](https://img.shields.io/badge/Golang_Fiber-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
+
+**Database & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThwinKhantNyarZaw11&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThwinKhantNyarZaw11&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" height="165"/>
+</p>
+
+---
+
+## Get in Touch
+
+- 📧 **Email** — [thwinkhantnyarzaw@gmail.com](mailto:thwinkhantnyarzaw@gmail.com)
+- 📱 **Phone** — +66 064 334 2077
+- 💻 **Portfolio** — [my-portfolio](https://github.com/ThwinKhantNyarZaw11/my-portfolio)
