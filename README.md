@@ -14,7 +14,7 @@
 
 ## About Me
 
-4th-year Software Engineering student at **Mae Fah Luang University** (GPA **3.80**), building full-stack web applications with clean interfaces and reliable backends.
+4th-year Software Engineering student at **Mae Fah Luang University** (GPA **3.82**), building full-stack web applications with clean interfaces and reliable backends.
 
 I work across the entire stack — from React and TypeScript frontends to Golang APIs — and I care deeply about both how software looks and how it performs.
 
